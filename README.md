@@ -45,19 +45,6 @@ It reads chat messages from the screen, processes the latest message, and automa
 * Depends on screen coordinates
 
 
-
-
-
-## Purpose
-
-This project demonstrates:
-
-* Python automation
-* API integration
-* Problem-solving using real-world use case
-
-
-
 👨‍💻 Author
 
 Abhijeet Kumar
